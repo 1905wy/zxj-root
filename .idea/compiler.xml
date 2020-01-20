@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zxj-admin" />
+        <module name="zxj-api" />
+        <module name="zxj-index" />
+        <module name="zxj-mapper" />
+        <module name="zxj-order" />
+        <module name="zxj-role" />
+        <module name="zxj-shop" />
+        <module name="zxj-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zxj-admin" target="1.8" />
+      <module name="zxj-api" target="1.8" />
+      <module name="zxj-dependencies" target="1.8" />
+      <module name="zxj-index" target="1.8" />
+      <module name="zxj-mapper" target="1.8" />
+      <module name="zxj-order" target="1.8" />
+      <module name="zxj-role" target="1.8" />
+      <module name="zxj-root" target="1.8" />
+      <module name="zxj-shop" target="1.8" />
+      <module name="zxj-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

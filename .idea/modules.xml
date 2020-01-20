@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zxj-admin/zxj-admin.iml" filepath="$PROJECT_DIR$/zxj-admin/zxj-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-api/zxj-api.iml" filepath="$PROJECT_DIR$/zxj-api/zxj-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-dependencies/zxj-dependencies.iml" filepath="$PROJECT_DIR$/zxj-dependencies/zxj-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-index/zxj-index.iml" filepath="$PROJECT_DIR$/zxj-index/zxj-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-mapper/zxj-mapper.iml" filepath="$PROJECT_DIR$/zxj-mapper/zxj-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-order/zxj-order.iml" filepath="$PROJECT_DIR$/zxj-order/zxj-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-role/zxj-role.iml" filepath="$PROJECT_DIR$/zxj-role/zxj-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zxj-root.iml" filepath="$PROJECT_DIR$/.idea/zxj-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-shop/zxj-shop.iml" filepath="$PROJECT_DIR$/zxj-shop/zxj-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxj-user/zxj-user.iml" filepath="$PROJECT_DIR$/zxj-user/zxj-user.iml" />
+    </modules>
+  </component>
+</project>
